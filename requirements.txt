@@ -1,0 +1,7 @@
+aiogram>=3.13,<4
+libtorrent==2.0.15
+httpx>=0.27,<1
+cryptography>=43
+google-auth>=2.35,<3
+google-auth-oauthlib>=1.2,<2
+python-dotenv>=1,<2

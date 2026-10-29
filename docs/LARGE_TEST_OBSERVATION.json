@@ -1,0 +1,102 @@
+{
+  "observed_utc": "2026-10-29T18:04:51.927527+00:00",
+  "status": "partial_run_not_a_pass",
+  "files": [
+    {
+      "idx": 0,
+      "size": 1073741825,
+      "state": "done",
+      "progress": 1073741825,
+      "uploaded": 1073741825,
+      "attempts": 0
+    },
+    {
+      "idx": 1,
+      "size": 1073741826,
+      "state": "done",
+      "progress": 1073741826,
+      "uploaded": 1073741826,
+      "attempts": 0
+    },
+    {
+      "idx": 2,
+      "size": 1073741835,
+      "state": "done",
+      "progress": 1073741835,
+      "uploaded": 1073741835,
+      "attempts": 0
+    },
+    {
+      "idx": 3,
+      "size": 1073741836,
+      "state": "done",
+      "progress": 1073741836,
+      "uploaded": 1073741836,
+      "attempts": 0
+    },
+    {
+      "idx": 4,
+      "size": 1073741827,
+      "state": "downloading",
+      "progress": 130894760,
+      "uploaded": 0,
+      "attempts": 0
+    },
+    {
+      "idx": 5,
+      "size": 1073741828,
+      "state": "downloading",
+      "progress": 0,
+      "uploaded": 0,
+      "attempts": 0
+    },
+    {
+      "idx": 6,
+      "size": 1073741829,
+      "state": "queued",
+      "progress": 0,
+      "uploaded": 0,
+      "attempts": 0
+    },
+    {
+      "idx": 7,
+      "size": 1073741830,
+      "state": "queued",
+      "progress": 0,
+      "uploaded": 0,
+      "attempts": 0
+    },
+    {
+      "idx": 8,
+      "size": 1073741831,
+      "state": "queued",
+      "progress": 0,
+      "uploaded": 0,
+      "attempts": 0
+    },
+    {
+      "idx": 9,
+      "size": 1073741832,
+      "state": "queued",
+      "progress": 0,
+      "uploaded": 0,
+      "attempts": 0
+    },
+    {
+      "idx": 10,
+      "size": 1073741833,
+      "state": "queued",
+      "progress": 0,
+      "uploaded": 0,
+      "attempts": 0
+    },
+    {
+      "idx": 11,
+      "size": 1073741834,
+      "state": "queued",
+      "progress": 0,
+      "uploaded": 0,
+      "attempts": 0
+    }
+  ]
+}
